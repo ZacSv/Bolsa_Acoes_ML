@@ -10,4 +10,4 @@ As bibliotecas utilizadas são:
 - Scikit-learn
 - Matplotlib <br>
 Abaixo segue exemplo do gráfico que o modelo é capaz de gerar durante o treinamento.,br>
-<img src="exemplos/Graph" alt="Texto Alternativo">
+<img src="exemplo/Graph" alt="Texto Alternativo">
