@@ -9,5 +9,5 @@ As bibliotecas utilizadas são:
 - Yahoo Finance
 - Scikit-learn
 - Matplotlib <br>
-Abaixo segue exemplo do gráfico que o modelo é capaz de gerar durante o treinamento.<br>
+Abaixo segue exemplo do gráfico que o modelo é capaz de gerar durante o treinamento, consegue-se também observar a acertabilidade do modelo, vale lembrar que este gráfico remete ao treinamento.<br>
 <img src="https://raw.githubusercontent.com/ZacSv/Bolsa_Acoes_ML/main/exemplo/Graph.png" alt="Texto Alternativo">
